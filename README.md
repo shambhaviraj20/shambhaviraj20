@@ -3,24 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shambhavi-raj/) &nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shambhaviraj_)
 
-I'm a Computer Engineering undergrad passionate about building impactful tech.  
-I love working at the intersection of **AI**, **Web3**, **cybersecurity**, and **blockchain**.  
-Currently exploring new ways to turn bold ideas into real-world solutions.
-
-## 🚀 What I'm Exploring
-- Artificial Intelligence & Machine Learning  
-- Blockchain Development & Web3 protocols  
-- Cybersecurity fundamentals and real-world applications  
-
-## 🛠️ Current Highlights
-- Builder at **ICP x DoraHacks**  
-- Finalist at **BITS Pilani APOGEE’25** & **IIM Trichy**
-- Active participant in national-level hackathons & tech fests  
-
-## 🌱 Always Learning
-From building secure systems to designing user-centric interfaces —  
-I'm constantly experimenting, learning, and sharing what I know.
-
+I’m a Computer Engineering undergrad exploring the intersection of AI, Web3, cybersecurity, and blockchain. I love building projects that create real-world impact and challenge me to think beyond the obvious. </br>
+I’m currently a builder at ICP x DoraHacks and a finalist at BITS Pilani APOGEE’25 and IIM Trichy. Hackathons and tech fests fuel my curiosity, and I’m always learning—from secure systems to human-centered design.
 ---
 
 # 💻 Tech Stack
